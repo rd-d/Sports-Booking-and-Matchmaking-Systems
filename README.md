@@ -1,3 +1,3 @@
 # Sports-Booking-and-Matchmaking-Systems
 
-Designed Prototype of website using Django and Flask framework with PostgreSQL for database design. Create Dashboards for calculating sports resistivity for athletes in India based on gathered data
+Developed a website prototype using Django and Flask frameworks with PostgreSQL for the database. Implemented dashboards to calculate sports resistivity for Indian athletes using collected data.
